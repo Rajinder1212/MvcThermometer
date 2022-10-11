@@ -36,3 +36,8 @@ Created the seeddata.cs in the models and updated with the values
 also updated the program.cs
 finally all the values are been updated also i forgot add 1 value so changing that now 
 now moving to add images , added a folder images 
+added all the images and styled it .
+
+Hurray!!!!
+
+I did ... after a lot of struggle....
