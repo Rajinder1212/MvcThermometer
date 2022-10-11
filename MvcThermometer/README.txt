@@ -35,3 +35,4 @@ made a small change in the layout page for connecting the mvcThermometer logo to
 Created the seeddata.cs in the models and updated with the values
 also updated the program.cs
 finally all the values are been updated also i forgot add 1 value so changing that now 
+now moving to add images , added a folder images 
