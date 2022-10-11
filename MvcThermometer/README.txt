@@ -32,3 +32,4 @@ Added a new scaffolded item  and updated data context with thermometerContext
 Yah! it works in first attempt.
 added migration and updated the database 
 made a small change in the layout page for connecting the mvcThermometer logo to checking the table values
+Created the seeddata.cs in the models and updated with the values 
