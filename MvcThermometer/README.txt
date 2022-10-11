@@ -30,3 +30,4 @@ Added a new connection
 Now added a scapfolding.
 Added a new scaffolded item  and updated data context with thermometerContext
 Yah! it works in first attempt.
+added migration and updated the database 
