@@ -22,3 +22,6 @@ And my whole website looks incredeble for me.
 I added a new class named Thermometer.cs
 then updated it with new properties..
 Added a nuget packages and install it.
+Added a nuget packages and install it.
+Then created a database class called MvcThermometerContext.cs.
+And updated it with new names.
