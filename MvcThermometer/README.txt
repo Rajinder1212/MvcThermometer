@@ -34,3 +34,4 @@ added migration and updated the database
 made a small change in the layout page for connecting the mvcThermometer logo to checking the table values
 Created the seeddata.cs in the models and updated with the values
 also updated the program.cs
+finally all the values are been updated also i forgot add 1 value so changing that now 

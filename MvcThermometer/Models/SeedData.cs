@@ -69,8 +69,15 @@ namespace MvcThermometer.Models
                          Fahrenheit = 110,
                          Price = 22,
                          Type = "Alcoholic ",
+                     },
+                     new Thermometer
+                     {
+                         Features = " cooking fork and food thermometer  ",
+                         Celcious = 18,
+                         Fahrenheit = 104,
+                         Price = 16,
+                         Type = "Fork ",
                      }
-
                 );
                 context.SaveChanges();
             }
