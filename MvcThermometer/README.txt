@@ -25,3 +25,5 @@ Added a nuget packages and install it.
 Added a nuget packages and install it.
 Then created a database class called MvcThermometerContext.cs.
 And updated it with new names.
+I have added using statements in startup.cs and  updated startup.configureServices with project name
+Added a new connection 
